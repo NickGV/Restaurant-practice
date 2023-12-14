@@ -1,6 +1,6 @@
 # This is a webpack practice making a restaurant page
 
-## Visit the page here: restaurant-nickgv.netlify.app
+## Visit the page here: [restaurant-nickgv.netlify.app](https://restaurant-nickgv.netlify.app/)
 
 ## Create with:
 
